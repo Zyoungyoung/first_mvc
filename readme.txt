@@ -1,3 +1,4 @@
-Git is a version control system.
-Git is free softwar.i am cookie
-i am a noob   today is the Monday
+网上餐厅点餐系统：
+组成：前端layui框架+mysql数据库+servlet控制器
+这个项目初步练习了一个简易的管理系统如何落地，较为大的两点就是采用了过滤器来进行人员过滤以及监听器展示在线人数
+关于数据库语句则是手写sql语句及对象，最后运用proprites文件连接数据库进行数据访问
